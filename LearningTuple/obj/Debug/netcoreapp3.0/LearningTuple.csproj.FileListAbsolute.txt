@@ -1,0 +1,10 @@
+C:\Users\Jason\source\repos\LearningTuple\LearningTuple\bin\Debug\netcoreapp3.0\LearningTuple.exe
+C:\Users\Jason\source\repos\LearningTuple\LearningTuple\bin\Debug\netcoreapp3.0\LearningTuple.deps.json
+C:\Users\Jason\source\repos\LearningTuple\LearningTuple\bin\Debug\netcoreapp3.0\LearningTuple.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningTuple\LearningTuple\bin\Debug\netcoreapp3.0\LearningTuple.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningTuple\LearningTuple\bin\Debug\netcoreapp3.0\LearningTuple.dll
+C:\Users\Jason\source\repos\LearningTuple\LearningTuple\bin\Debug\netcoreapp3.0\LearningTuple.pdb
+C:\Users\Jason\source\repos\LearningTuple\LearningTuple\obj\Debug\netcoreapp3.0\LearningTuple.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningTuple\LearningTuple\obj\Debug\netcoreapp3.0\LearningTuple.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningTuple\LearningTuple\obj\Debug\netcoreapp3.0\LearningTuple.dll
+C:\Users\Jason\source\repos\LearningTuple\LearningTuple\obj\Debug\netcoreapp3.0\LearningTuple.pdb
